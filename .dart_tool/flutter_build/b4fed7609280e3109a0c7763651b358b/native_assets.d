@@ -1,1 +1,0 @@
- /Users/itmiftah10/Projects/wasm_bug/.dart_tool/flutter_build/b4fed7609280e3109a0c7763651b358b/native_assets.yaml: 
